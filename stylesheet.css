@@ -1,0 +1,13 @@
+.carousel-item {
+    height: 60vh; /* Adjust this value as needed to set the height */
+  }
+  
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+  *{
+    scroll-behavior: smooth;
+   }
+   
